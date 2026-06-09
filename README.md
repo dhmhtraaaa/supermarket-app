@@ -1,5 +1,3 @@
-README.txt
-
 ΕΡΓΑΣΙΑ: SuperMarketGUI
 
 #1. ΠΕΡΙΓΡΑΦΗ ΕΦΑΡΜΟΓΗΣ
