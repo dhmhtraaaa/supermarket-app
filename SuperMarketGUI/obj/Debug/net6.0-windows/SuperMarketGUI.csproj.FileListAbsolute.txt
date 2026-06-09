@@ -1,0 +1,110 @@
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.AssemblyInfoInputs.cache
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.AssemblyInfo.cs
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.csproj.CoreCompileInputs.cache
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.csproj.AssemblyReference.cache
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.exe
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.deps.json
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.runtimeconfig.json
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.pdb
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\ERGASIA\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMar.4558FB61.Up2Date
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.dll
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\refint\SuperMarketGUI.dll
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.pdb
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.genruntimeconfig.cache
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\ref\SuperMarketGUI.dll
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.Form1.resources
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.csproj.GenerateResource.cache
+D:\ERGASIA\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.Product.resources
+D:\SXOLI 2026 ERGASIES\ERGASIA C#\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.csproj.AssemblyReference.cache
+D:\SXOLI 2026 ERGASIES\ERGASIA C#\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.Product.resources
+D:\SXOLI 2026 ERGASIES\ERGASIA C#\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.csproj.GenerateResource.cache
+D:\SXOLI 2026 ERGASIES\ERGASIA C#\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SXOLI 2026 ERGASIES\ERGASIA C#\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.AssemblyInfoInputs.cache
+D:\SXOLI 2026 ERGASIES\ERGASIA C#\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.AssemblyInfo.cs
+D:\SXOLI 2026 ERGASIES\ERGASIA C#\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.csproj.CoreCompileInputs.cache
+D:\SXOLI 2026 ERGASIES\ERGASIA C#\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.dll
+D:\SXOLI 2026 ERGASIES\ERGASIA C#\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\refint\SuperMarketGUI.dll
+D:\SXOLI 2026 ERGASIES\ERGASIA C#\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.pdb
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.csproj.AssemblyReference.cache
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.Product.resources
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.csproj.GenerateResource.cache
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.AssemblyInfoInputs.cache
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.AssemblyInfo.cs
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\refint\SuperMarketGUI.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.pdb
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.exe
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.deps.json
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.runtimeconfig.json
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.pdb
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMar.4558FB61.Up2Date
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.genruntimeconfig.cache
+C:\Users\dimit\Downloads\test 4\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\ref\SuperMarketGUI.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.exe
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.deps.json
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.runtimeconfig.json
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\SuperMarketGUI.pdb
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.csproj.AssemblyReference.cache
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.Product.resources
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.csproj.GenerateResource.cache
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.AssemblyInfoInputs.cache
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.AssemblyInfo.cs
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMar.4558FB61.Up2Date
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\refint\SuperMarketGUI.dll
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.pdb
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\SuperMarketGUI.genruntimeconfig.cache
+C:\Users\dimit\Downloads\test 4\SuperMarketGUI\obj\Debug\net6.0-windows\ref\SuperMarketGUI.dll
